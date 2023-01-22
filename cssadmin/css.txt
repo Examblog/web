@@ -1,4 +1,4 @@
-
+<style>
   @charset "UTF-8";
 /*!
 * Start Bootstrap - Simple Sidebar v6.0.5 (https://startbootstrap.com/template/simple-sidebar)
@@ -11328,3 +11328,4 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     margin-left: -15rem;
   }
 }
+</style>
